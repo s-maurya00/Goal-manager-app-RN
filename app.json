@@ -1,14 +1,14 @@
 {
   "expo": {
-    "name": "Proj3-GoalManager",
-    "slug": "Proj3-GoalManager",
+    "name": "Aapka Goal Manager",
+    "slug": "goalmanager",
     "version": "1.0.0",
     "orientation": "portrait",
-    "icon": "./assets/icon.png",
+    "icon": "./assets/caveman2.png",
     "userInterfaceStyle": "light",
     "splash": {
-      "image": "./assets/splash.png",
-      "resizeMode": "contain",
+      "image": "./assets/caveman3.png",
+      "resizeMode": "cover",
       "backgroundColor": "#ffffff"
     },
     "updates": {
@@ -24,7 +24,8 @@
       "adaptiveIcon": {
         "foregroundImage": "./assets/adaptive-icon.png",
         "backgroundColor": "#FFFFFF"
-      }
+      },
+      "package": "com.goalmanager.myapp"
     },
     "web": {
       "favicon": "./assets/favicon.png"
